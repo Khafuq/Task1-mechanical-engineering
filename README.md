@@ -28,16 +28,16 @@ Click here to see the representation of points on the Cartesian coordinate syste
 
 ## Some img:
 
-<img src="https://user-images.githubusercontent.com/109294776/182015175-8b4ac4e0-1a85-45dd-8d4d-99a01621739e.jpg" width="700" height="450">
+<img src="https://user-images.githubusercontent.com/109294776/182015175-8b4ac4e0-1a85-45dd-8d4d-99a01621739e.jpg" width="600" height="450">
 
 
-<img src="https://user-images.githubusercontent.com/109294776/182015334-70c8e6d4-009a-4e4d-9158-eca8a63deb0c.jpg" width="700" height="450">
+<img src="https://user-images.githubusercontent.com/109294776/182015334-70c8e6d4-009a-4e4d-9158-eca8a63deb0c.jpg" width="600" height="450">
 
 
-<img src="https://user-images.githubusercontent.com/109294776/182015497-3a5e7647-820c-4e91-a959-c45b6e48894f.jpeg" width="700" height="450">
+<img src="https://user-images.githubusercontent.com/109294776/182015497-3a5e7647-820c-4e91-a959-c45b6e48894f.jpeg" width="600" height="450">
 
 
-<img src="https://user-images.githubusercontent.com/109294776/182015563-dedec03f-d6f6-42c8-a443-ed99f92aabc6.jpeg" width="700" height="450">
+<img src="https://user-images.githubusercontent.com/109294776/182015563-dedec03f-d6f6-42c8-a443-ed99f92aabc6.jpeg" width="600" height="450">
 
 
 
